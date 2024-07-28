@@ -1,5 +1,5 @@
 # Product_Dissection_ON_Linkeden
-  LINKEDIN
+LINKEDIN
 Product Analysis for Linkedin:
 Company overview:
 The company was founded in December 2002 by Reid Hoffman and the founding team members from Paypal and Socialenet.com. Linkedin is a business and employment-focused social media platform that works through websites and mobile apps. It was launched on May 5, 2003. Since December 2016, it has been a wholly owned subsidiary of microsoft. The platform is primarily used for professional networking and career development, and allows jobseekers to post their cvs and employers to post jobs.
@@ -161,34 +161,8 @@ Relationships are:
 ●	User works in companies: Each user can work in multiple companies, and each company can have multiple users. This is a many-to-many relationship between the User Entity and the Company Entity.
 ●	Users can study in Institutions: Each user can study in multiple institutions, and each institution can have multiple users. This is a many-to-many relationship between the User Entity and the Institution Entity. 
 
-
-
-
 ER Diagram
 The ER diagram definition provides a high-level overview of the entities and their relationships with a simplified linkedin database schema.
 
- 
-
-
-
 CONCLUSION
 In conclusion, LinkedIn stands out as a pivotal platform in the professional networking and career development landscape, offering a multifaceted approach to connecting individuals, businesses, and opportunities.The platform's unique features, such as profile creation and management, networking capabilities, job search functionalities, and educational resources, contribute to its significance in the professional sphere. LinkedIn's commitment to addressing real-world challenges is evident in its solutions for streamlining recruitment processes, promoting diversity and inclusion, supporting remote work, and enhancing company visibility. LinkedIn's success can be attributed to its dedication to providing value to users through continuous refinement and expansion of its features. As LinkedIn continues to evolve, its role in shaping the future of professional networking and career development is likely to remain prominent.
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
- 
-![image](https://github.com/user-attachments/assets/b946476a-b7ba-4801-be03-af573fef6f13)
